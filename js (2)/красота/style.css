@@ -1,0 +1,22 @@
+.square{
+    width: 150px;
+	height: 100px;
+	-webkit-transform: skew(20deg);
+	   -moz-transform: skew(20deg);
+	     -o-transform: skew(20deg);
+	background: rgb(211, 147, 147);
+}
+.but{
+    display: flex;
+    position: absolute;
+    left: 50%;
+    top: 95%;
+}
+button{
+    width: 60pxpx;
+    height: 50px;
+    background-color: rgb(236, 70, 126);
+    
+    
+
+}
